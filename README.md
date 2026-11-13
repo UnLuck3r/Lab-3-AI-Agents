@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot_2026-11-13_17_53_53" src="https://github.com/user-attachments/assets/960a8947-1cdf-40e5-8231-ab810d86ebff" /># Отчёт по лабораторной работе №3 (локальный запуск)
+# Отчёт по лабораторной работе №3 (локальный запуск)
 **Тема:** Открытые модели и протокол MCP (Model Context Protocol)
 
 ---
@@ -84,5 +84,6 @@ result = await client.call_tool(call.function.name, call.function.arguments)
 <img width="1920" height="1080" alt="Screenshot_2026-11-13_17_55_49" src="https://github.com/user-attachments/assets/ab2de4b6-ebf1-4f68-bc61-5c771e0701df" />
 <img width="1540" height="243" alt="Screenshot_2026-11-13_18-03-36" src="https://github.com/user-attachments/assets/2f8b49e4-b637-4fcd-aa8f-44a1f5c14b64" />
 <img width="1920" height="578" alt="Screenshot_2026-11-13_18-17-36" src="https://github.com/user-attachments/assets/d65f1ed6-457f-4629-9e82-70c082afad88" />
+<img width="1920" height="1080" alt="Screenshot_2026-11-13_17_53_53" src="https://github.com/user-attachments/assets/960a8947-1cdf-40e5-8231-ab810d86ebff" />
 
 
