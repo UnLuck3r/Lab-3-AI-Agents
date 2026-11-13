@@ -1,4 +1,4 @@
-# Отчёт по лабораторной работе №3 (локальный запуск)
+<img width="1920" height="1080" alt="Screenshot_2026-11-13_17_53_53" src="https://github.com/user-attachments/assets/960a8947-1cdf-40e5-8231-ab810d86ebff" /># Отчёт по лабораторной работе №3 (локальный запуск)
 **Тема:** Открытые модели и протокол MCP (Model Context Protocol)
 
 ---
@@ -79,8 +79,10 @@ result = await client.call_tool(call.function.name, call.function.arguments)
 ---
 
 ## Приложение. Скриншоты выполнения работы
+<img width="1040" height="147" alt="Screenshot_2026-11-13_17-56-47" src="https://github.com/user-attachments/assets/d437c66e-dc0f-4037-9c1f-131a6dc3145b" />
+<img width="1920" height="1080" alt="Screenshot_2026-11-13_17_53_53" src="https://github.com/user-attachments/assets/0c76389c-4940-47d4-982b-1d0c2da24b3b" />
+<img width="1920" height="1080" alt="Screenshot_2026-11-13_17_55_49" src="https://github.com/user-attachments/assets/ab2de4b6-ebf1-4f68-bc61-5c771e0701df" />
+<img width="1540" height="243" alt="Screenshot_2026-11-13_18-03-36" src="https://github.com/user-attachments/assets/2f8b49e4-b637-4fcd-aa8f-44a1f5c14b64" />
+<img width="1920" height="578" alt="Screenshot_2026-11-13_18-17-36" src="https://github.com/user-attachments/assets/d65f1ed6-457f-4629-9e82-70c082afad88" />
 
-1. **Шаг 1:** Статистика генерации `ollama run qwen3.5:4b --verbose` и потребление памяти `ollama ps`.
-2. **Шаг 2:** Вывод проверки МСР-сервера `python check.py`.
-3. **Шаг 3:** Пример работы агента `python agent.py` с вызовом инструмента `search_files`.
-4. **Шаг 4:** Сравнительные прогоны вопросов на моделях `qwen3.5:4b` и `qwen3.5:2b`.
+
